@@ -86,6 +86,7 @@ export { default as useSlider } from './useSlider';
 export { default as useSpeech } from './useSpeech';
 // not exported because of peer dependency
 // export { default as useSpring } from './useSpring';
+export { default as useStack } from './useStack';
 export { default as useStartTyping } from './useStartTyping';
 export { useStateWithHistory } from './useStateWithHistory';
 export { default as useStateList } from './useStateList';
